@@ -1,2 +1,2 @@
 # Описание решения
-![Добавил блок-схему](Intermediate certification - block.jpg)
+![Добавил блок-схему](Intermediate_certification-block.jpg)
